@@ -56,6 +56,13 @@ none
       <td></td>
     </tr>
     <tr>
+      <td>AlbModule</td>
+      <td>Stack name of <a href="https://www.npmjs.com/package/@cfn-modules/alb">alb module</a></td>
+      <td></td>
+      <td>no</td>
+      <td></td>
+    </tr>
+    <tr>
       <td>AlertingModule</td>
       <td>Stack name of <a href="https://www.npmjs.com/package/@cfn-modules/alerting">alerting module</a></td>
       <td></td>
@@ -272,7 +279,7 @@ none
     </tr>
     <tr>
       <td>ModuleVersion</td>
-      <td>The version of module: `1.0.0`</td>
+      <td>The version of module: `2.0.0`</td>
       <td></td> 
     </tr>
     <tr>
